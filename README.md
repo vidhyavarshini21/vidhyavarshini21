@@ -1,16 +1,83 @@
-## Hi there 👋
+# 🌸 Hi, I'm Vidhyavarshini! 🌸
 
-<!--
-**vidhyavarshini21/vidhyavarshini21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💖 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+> *"Dream • Code • Create • Repeat"* ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎀 About Me
+
+🌷 B.E. Computer Science Engineering Student
+
+💗 Passionate about Frontend Development
+
+🌸 Currently learning Python, Java & AI
+
+🎨 I love creating beautiful websites
+
+🌱 Learning something new every day
+
+---
+
+## 💻 Tech Stack
+
+🌸 HTML
+
+🌸 CSS
+
+🌸 JavaScript
+
+🌸 Python
+
+🌸 Java
+
+🌸 Git & GitHub
+
+🌸 VS Code
+
+🌸 Figma
+
+---
+
+## 🌷 My Projects
+
+💖 Portfolio Website
+
+🍰 Restaurant Website
+
+📚 Bookshelf Management
+
+🤖 AI Internship Recommender
+
+🧭 Career Compass
+
+🚌 Public Transport Project
+
+---
+
+## 🌼 Goals for 2026
+
+🌸 Build amazing projects
+
+🌸 Improve problem-solving
+
+🌸 Learn AI & Machine Learning
+
+🌸 Get a Software Internship 💼
+
+---
+
+## 🌸 Fun Facts
+
+☕ Coffee + Coding = Happiness
+
+🎀 I enjoy designing beautiful user interfaces
+
+📖 I love learning new technologies
+
+---
+
+### 💕 Thanks for visiting my profile!
+
+✨ Have a wonderful day! ✨
